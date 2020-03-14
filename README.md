@@ -5,7 +5,7 @@ This repository will serve as a place where the project from the course **Applie
 
 ## Dataset
 
-The data that we will be using can be found here: [Tweets by Members of the European Parliament (MEPs)](https://www.clarin.si/repository/xmlui/handle/11356/1071.
+The data that we will be using can be found here: [Tweets by Members of the European Parliament (MEPs)](https://www.clarin.si/repository/xmlui/handle/11356/1071).
 
 The following project assumes that the data will reside in the same directory as this notebook.
 
